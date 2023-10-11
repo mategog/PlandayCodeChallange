@@ -1,6 +1,6 @@
-# PlandeyCodeChallange
+# PlandayCodeChallange
 
-Regarding the tasks, I really enjoyed working on it.
+Regarding the tasks, I really enjoyed working on them.
 
 The first task was fairly easy, and I was able to complete it within 20 minutes.
 The second task was also manageable; I spent most of my time on validation to provide the cleanest solution I could. 
